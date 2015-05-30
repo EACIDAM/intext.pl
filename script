@@ -367,7 +367,7 @@ sub help
 	system('clear');
 
 	print("
-Utilisation : script -in GenBank_file -out output_file
+ : script -in GenBank_file -out output_file
 
 Ce script va permettre de rÃ©cupÃ©rer les rÃ©gions intergÃ©niques de sÃ©quences passÃ©es au format GenBank.
 ATTENTION : Le fichier passÃ© en argument doit impÃ©rativement Ãªtre au format GenBank.
